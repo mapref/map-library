@@ -7,16 +7,16 @@ const websites = [
     url: "https://storymaps.arcgis.com/stories/433ade03ef65457fb1fb6e9febde8e5e",
   },
   {
+    name: "Lost Waters",
+    url: "https://umn.maps.arcgis.com/apps/View/index.html?appid=49a00eab2f4e45f0ab8228c85ef6cbe7",
+  },
+  {
     name: "Mapping Prejudice",
-    url: "https://mappingprejudice.umn.edu/racial-covenants/maps-data",
+    url: "https://umn.maps.arcgis.com/apps/instant/basic/index.html?appid=ec57a8d1a0614b7a8e097d50636e9e48",
   },
   {
     name: "UMN Campus History",
     url: "https://apps.lib.umn.edu/campushistory/",
-  },
-  {
-    name: "Lost Waters",
-    url: "https://umn.maps.arcgis.com/apps/View/index.html?appid=49a00eab2f4e45f0ab8228c85ef6cbe7",
   },
   {
     name: "Historical Aerial Photos",
