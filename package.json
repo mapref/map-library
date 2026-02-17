@@ -1,7 +1,7 @@
 {
   "name": "map-library",
   "version": "0.1.0",
-  "homepage": "https://lukezaruba.github.io/map-library",
+  "homepage": "https://mapref.github.io/map-library",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
